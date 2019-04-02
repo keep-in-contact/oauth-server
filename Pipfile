@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+argcomplete = "==1.9.3"
+blinker = "==1.4"
+facebook-sdk = "==3.0.0"
+flask-marshmallow = "==0.9.0"
+flask-swagger = "==0.2.13"
+graypy = "==0.3.1"
+marshmallow-sqlalchemy = "==0.14.0"
+marshmallow = "==2.15.3"
+mysql-connector-python = "==8.0.11"
+python-dateutil = "==2.6.1"
+redis = "==2.10.6"
+requests = "==2.19.1"
+sentry-sdk = "==0.6.9"
+Authlib = "==0.10"
+Flask-Caching = "==1.4.0"
+Flask-Cors = "==3.0.6"
+Flask-JWT-Extended = "==3.10.0"
+Flask-SQLAlchemy = "==2.3.2"
+Flask = "==1.0.2"
+"Jinja2" = "==2.10"
+MarkupSafe = "==1.0"
+PyJWT = "==1.6.4"
+PyYAML = "==3.12"
+SQLAlchemy = "==1.2.8"
+Werkzeug = "==0.14.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
