@@ -28,7 +28,7 @@ MarkupSafe = "==1.0"
 PyJWT = "==1.6.4"
 PyYAML = "==3.12"
 SQLAlchemy = "==1.2.8"
-Werkzeug = "==0.14.1"
+Werkzeug = "==0.15.3"
 
 [dev-packages]
 
